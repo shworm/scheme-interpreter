@@ -11,6 +11,7 @@ This interpreter is seperated into multiple pieces. The interpretation process f
 - parser.c (parser.h)
     - The parser recieves the linked list of tokens, and creates a parse tree based on function calls and parentheses.
     - Creates a linked list stack to help group tokens toghether in the same context.
+    - /parse.png
     
 # Overview
 
